@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x15542bAbf3388FCD5917330036522822DFD26Eb4",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x15542babf3388fcd5917330036522822dfd26eb4",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "DogePunks Mars Club 2.0 V2",
+  "SYMBOL": "DogePunk",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.029,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dogepunks-mars-club-2-0-v2",
+  "SHOW_BACKGROUND": true
+}
